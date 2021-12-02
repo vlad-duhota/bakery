@@ -167,8 +167,7 @@ transition: background .3s;
     font-size: 22px;
     line-height: 27px;
 }
-.ad
-v-items:first-child{
+.adv-items:first-child{
     margin-left: 0;
 }
 
